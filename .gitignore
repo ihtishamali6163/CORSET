@@ -1,6 +1,0 @@
-# Local benchmark logs & caches
-benchmarks/results.json
-__pycache__/
-*.log
-.DS_Store
-.venv/
